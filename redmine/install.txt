@@ -1,0 +1,2 @@
+https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/tinhthanh/docker-compose/master/redmine/stack.yml
+run with docker with 4 hour
